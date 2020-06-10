@@ -1,0 +1,2 @@
+# myzshconfig
+LanceZshConfig
