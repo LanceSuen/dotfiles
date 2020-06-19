@@ -1,7 +1,7 @@
-# myconfig
+# dotfiles
 
 
-## ZSH Install commands
+## ZSH Init commands
 
 ```
 sudo apt install zsh
